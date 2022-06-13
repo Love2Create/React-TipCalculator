@@ -1,0 +1,19 @@
+
+.spaceBetween{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0 5px 0;
+}
+
+hr{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+div{
+    margin: 5px 0px 5px 0px;
+}
+.result{
+    font-weight: bolder;
+    font-size: 1.25rem;
+}
